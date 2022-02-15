@@ -1,0 +1,19 @@
+a=int(input())
+b=int(input())
+c=int(a//b)
+d=float(a/b)
+print(c)
+print(d)
+
+
+Input (stdin)
+4
+3
+
+Your Output (stdout)
+1
+1.3333333333333333
+
+Expected Output
+1
+1.33333333333
